@@ -10,6 +10,8 @@ namespace EVIL_GAME
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("WUALÁ?");
+            Console.ReadKey();
         }
     }
 }
